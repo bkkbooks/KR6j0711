@@ -1,0 +1,241 @@
+canonical_identifier: bkk:krp/KR6j0711/v1
+canonical_location: https://kanripo.org/bkk/KR6j0711/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經貫攝
+  identifiers:
+    alt_id:
+    - X15n0303
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X15/X15n0303.xml
+    old_id: X15n0303
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0711_000.yaml, hash: 'sha256:ff1dfd62b9e5c418b07883abe4eaa8181493e20dfe8f8c654cbc5ae8f4eafb7e'}
+  - {seq: 1, filename: KR6j0711_001.yaml, hash: 'sha256:6a45e7855381eea7a3791b576465c65456f82d99ab17f47244d1aa296b470fa4'}
+  - {seq: 2, filename: KR6j0711_002.yaml, hash: 'sha256:d16dc8a6cce5f90a3ffe03bc15ed418797447be5f4546231ebd5276c5e4aa2e0'}
+  - {seq: 3, filename: KR6j0711_003.yaml, hash: 'sha256:b93ea305596a59812c92e7680b605a7b50f8053ee3202fcc4ad36cd06319bcf4'}
+  - {seq: 4, filename: KR6j0711_004.yaml, hash: 'sha256:7872d5a279779e4707fe7892966ae0bad21c191da9dcb7e532ce897a777fc359'}
+  - {seq: 5, filename: KR6j0711_005.yaml, hash: 'sha256:d1e809c8309132abc4143831bf495676bf9291352b8b45aa4a58728fe8d92756'}
+  - {seq: 6, filename: KR6j0711_006.yaml, hash: 'sha256:06d47abeccf086f5d562c3b50ec881e40e973f9ce6bda6e558c947c798d0561c'}
+  - {seq: 7, filename: KR6j0711_007.yaml, hash: 'sha256:a708cf57102f07f296b486ff70098e760ed5b240ce214d3c8432c0d462e681ac'}
+  - {seq: 8, filename: KR6j0711_008.yaml, hash: 'sha256:0c048feed66e472ba5bca25c87141146a7f946cc86c7ebe9c87efa98bb931a03'}
+  - {seq: 9, filename: KR6j0711_009.yaml, hash: 'sha256:5a0e95f2b83ebd37c025efbcb1fb628e539483b4244b78b75b267c0e40d99a5e'}
+  - {seq: 10, filename: KR6j0711_010.yaml, hash: 'sha256:4303df2c61f312b9a803761fae15c9cbfcb2e0800eca9696cf016c578ebee0c8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0711_000.markers.yaml, hash: 'sha256:8eb54d873f60487fa1646bfeb4e14ed503dde46550c15e3466d6bcb49e34631e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0711_001.markers.yaml, hash: 'sha256:2486d0e7ef0e95077ba4bf5222a9b91777eec0a6a4be2720feb49485f52bfd35'}
+  - {seq: 2, role: markers, filename: assets/KR6j0711_002.markers.yaml, hash: 'sha256:6fc9476ff7b8fe3d558f3ddf37bbad4f5c3183fbce8bfb307a74e1b01c92069b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0711_003.markers.yaml, hash: 'sha256:4a2cf95f427989a975242ad386a13b782bcee52f1aaa24cbed7d71a6797414f7'}
+  - {seq: 4, role: markers, filename: assets/KR6j0711_004.markers.yaml, hash: 'sha256:9ecfd215b07076b62be8bbca3c6721fd537df0f227488c688dc74e50c62d28a8'}
+  - {seq: 5, role: markers, filename: assets/KR6j0711_005.markers.yaml, hash: 'sha256:cf656582d6fc2f02d7c585f9a1dd912005b6f36121b6e3215352c191771c7cd1'}
+  - {seq: 6, role: markers, filename: assets/KR6j0711_006.markers.yaml, hash: 'sha256:59ac896cbd91902b78d3d69796d1728a822d434fcad4a9d40fdbdfbbe57e2622'}
+  - {seq: 7, role: markers, filename: assets/KR6j0711_007.markers.yaml, hash: 'sha256:2a8dd74e54bf37b1273b269fa6413df06ad188849d2bb8352572427b9f747871'}
+  - {seq: 8, role: markers, filename: assets/KR6j0711_008.markers.yaml, hash: 'sha256:764093cfcddf0b3afa7ff49bb08f0a058d5c67a36c70acdb402a102d7b68d33a'}
+  - {seq: 9, role: markers, filename: assets/KR6j0711_009.markers.yaml, hash: 'sha256:43222066fff74ef3b61484a8f90fc1561524d8bd1aff6ab6d08924ab17529c44'}
+  - {seq: 10, role: markers, filename: assets/KR6j0711_010.markers.yaml, hash: 'sha256:9a4e30ef2b8653eaa3729b8f6eeb8f67fbf8d66805159e6a963048da1da11d4a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0711_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 303-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0711_X_000-mulu-2
+    span:
+    - front
+    - 649
+    - 649
+  label: No. 303-B 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0711_X_000-mulu-3
+    span:
+    - front
+    - 1048
+    - 1048
+  label: No. 303-C 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0711_X_000-mulu-4
+    span:
+    - front
+    - 2179
+    - 2179
+  label: No. 303-D 編輯始末
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0711_X_000-mulu-5
+    span:
+    - front
+    - 2802
+    - 2802
+  label: 表懺疏意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0711_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 28945
+  label: 楞嚴說通卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0711_X_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0711_X_001-mulu-2
+    span:
+    - body
+    - 1651
+    - 1651
+  label: 序分第一(有通序別序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0711_X_001-mulu-3
+    span:
+    - body
+    - 4096
+    - 4096
+  label: 正宗分第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0711_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 33635
+  label: 楞嚴說通卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0711_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 28568
+  label: 楞嚴說通卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0711_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 37696
+  label: 楞嚴說通卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0711_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 24847
+  label: 楞嚴說通卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0711_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 27407
+  label: 楞嚴說通卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0711_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 19368
+  label: 楞嚴說通卷之七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0711_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 36569
+  label: 楞嚴說通卷之八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0711_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 30156
+  label: 楞嚴說通卷之九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0711_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 25686
+  label: 楞嚴說通卷之十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0711_X_010-mulu-1
+    span:
+    - body
+    - 23819
+    - 23819
+  label: 流通分第三
+  type: mulu
+  level: 1
+hash: sha256:55365846e5e667976f9a9f43d0c427353bf27d9773e614a4d0732feeb3e68453
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
