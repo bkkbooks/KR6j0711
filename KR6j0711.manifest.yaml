@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0711_000.yaml, hash: 'sha256:7de8dbfd3d1314d2d7767fd9277052c63e43369b642e993164012ad075c35684'}
+  - {seq: 0, filename: KR6j0711_000.yaml, hash: 'sha256:dd1099436cba9805a7f81233986d36355f4e831466bb39b801229a6e4454e4de'}
   - {seq: 1, filename: KR6j0711_001.yaml, hash: 'sha256:1b6ab275aa3bca216aca755cbe16af7507ecff3def56a247011a2039d665b3ec'}
   - {seq: 2, filename: KR6j0711_002.yaml, hash: 'sha256:9a77a79e1e52c3f8c6590c387e86fbbcb83e4a7a35f386aee10181213a509ba4'}
   - {seq: 3, filename: KR6j0711_003.yaml, hash: 'sha256:66856a704ce39403be4a2da72652476d858cafc4bd55706f0039b72b95d3e6a8'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6j0711_009.yaml, hash: 'sha256:5275b114b3e8e85768a0403287902ea892a9dd0ac88881b3d9974f231d6da575'}
   - {seq: 10, filename: KR6j0711_010.yaml, hash: 'sha256:889586f03b4bab9d8d70eabc4e46d20340e97176cdaebcc177e9e5624f9e1c23'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0711_000.markers.yaml, hash: 'sha256:fa2fde1a95a4c64ae7a75f1a73ae637675a8857f154ab27eaba72b0be494a00f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0711_000.markers.yaml, hash: 'sha256:5d2de8aabe75ac2032da70590229c8220c7b706ed2e7dd2123ffefba75121c31'}
   - {seq: 1, role: markers, filename: assets/KR6j0711_001.markers.yaml, hash: 'sha256:85da8e1e6d743fa2104fafd94a565650a075a436ce0d1d667dd7f801607dfdd1'}
   - {seq: 2, role: markers, filename: assets/KR6j0711_002.markers.yaml, hash: 'sha256:81d7c784ef36b62dbc2fd419d4c3dbc09521ebdd9834d3bd4036da52ba877ef0'}
   - {seq: 3, role: markers, filename: assets/KR6j0711_003.markers.yaml, hash: 'sha256:945a432704678bbbcff91fcbd6e8ec49f297ac16d1e5be123e779e7f4e5142fb'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0711_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 303-A 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0711_X_000-mulu-2
     span:
-    - front
+    - body
     - 649
     - 649
   label: No. 303-B 序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0711_X_000-mulu-3
     span:
-    - front
+    - body
     - 1048
     - 1048
   label: No. 303-C 序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0711_X_000-mulu-4
     span:
-    - front
+    - body
     - 2179
     - 2179
   label: No. 303-D 編輯始末
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0711_X_000-mulu-5
     span:
-    - front
+    - body
     - 2802
     - 2802
   label: 表懺疏意
@@ -235,7 +235,7 @@ table_of_contents:
   label: 流通分第三
   type: mulu
   level: 1
-hash: sha256:21edd44307893e79c230190bccf9c7581ea240ad337eb37fc2661f5166cc9c03
+hash: sha256:340e4ec249613c1668eec6ae95654ed72aa01bb2084f95b55650bbabdbe341ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
